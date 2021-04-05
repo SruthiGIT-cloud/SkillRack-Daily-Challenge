@@ -1,3 +1,8 @@
+//Sample Input 1
+//100
+//Sample Output 1
+//Good job
+
 import java.util.*;
 import java.security.*;
 public class Solution {
