@@ -1,5 +1,16 @@
+//this program is done without any usage of built in functions/methods
+/*
+Sample Input 1
+-->anagramm
+-->marganaa
+Sample Output 1
+-->Not Anagrams
+Sample Input 2
+-->Hello
+-->hello
+Sample Output 2
+-->Anagrams*/
 import java.util.Scanner;
-
 public class Solution {
 
     static boolean isAnagram(String a, String b) {
