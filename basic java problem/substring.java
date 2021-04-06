@@ -1,3 +1,6 @@
+//sample input: helloworld
+//3 7
+//sample output:lowo
 import java.io.*;
 import java.util.*;
 import java.text.*;
