@@ -1,3 +1,15 @@
+/*sample input: 2 6
+	      4 4 3 2 2 4
+	      8 8 6 3 8 5
+	      3 3
+	      4 2 6
+	      7 2 6
+	      5 1 8
+	
+sample output: 4 2 3 
+	       1 2 6
+	       
+	       */
 import java.util.*;
 public class Hello {
 
@@ -55,6 +67,5 @@ public class Hello {
 		    }
 		    System.out.print("\n");
 		}
-
-	}
+    }
 }
