@@ -1,3 +1,10 @@
+/*sample input:  4
+               2 3 4 5
+	       3 5 10 9
+	       6 10 8 8 
+	       7  9 2 1
+sample output: YES
+*/
 import java.util.*;
 public class Hello {
 
